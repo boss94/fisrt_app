@@ -1,3 +1,3 @@
 # Tutoriel Ruby on Rails : première application
 
-Premiere appli
+Premiere appli [*RUby by Boss94*]
